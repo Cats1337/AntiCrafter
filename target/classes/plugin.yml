@@ -1,0 +1,9 @@
+name: AntiCrafter
+main: io.github.cats1337.antiCrafter.AntiCrafter
+version: 1.0
+api-version: 1.21
+commands:
+  anticrafter:
+    description: Reloads AntiCrafter configuration
+    usage: /anticrafter
+    permission: anticrafter.use
